@@ -1,2 +1,2 @@
 Model,Features Used,n_estimators,learning_rate,max_depth,min_samples_split,min_samples_leaf,Train RMSE,Test RMSE
-Gradient Boosting,"LotArea, GrLivArea, GarageCars, TotalBsmtSF, 1stFlrSF",300,0.1,3,5,1,8782.17,24327.5
+Gradient Boosting,"LotArea, GrLivArea, GarageCars, TotalBsmtSF, 1stFlrSF",1500,0.005,4,15,20,20307.08,25492.86
